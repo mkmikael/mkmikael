@@ -5,7 +5,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
 ![Mikael Lima's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkmikael&theme=tokyonight&layout=compact)
 
-🌱 I’m currently learning android in dicoding.com with kotlin
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -25,25 +24,6 @@
 
 ## Contact me : 
 
-![Linked-in](https://www.linkedin.com/in/luiz-eduardo-costa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-lima-3234569b/)
 
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
-
-------
-Credit: [AkuraDiary](https://github.com/AkuraDiary)
-
-Last Edited on: 21/08/2021
-<!--
-**AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
